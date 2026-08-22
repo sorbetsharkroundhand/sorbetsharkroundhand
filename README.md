@@ -2,19 +2,26 @@
   <img src="assets/herb-banner.gif" alt="Jekyung Ryu — herbs growing" width="100%" />
 </div>
 
-# 🌱 Hey, I'm Jekyung Ryu
+# 🌱 Hey, I'm sorbetsharkroundhand
 
 > *Everything grows better close to its root.*
 
-I like software that **runs where it's planted** — on-device AI, local-first tools,
-and stories grown out of data. My projects follow a small tradition: they're all
-**named after herbs**. Welcome to the garden. 🌿
+I'm **Jekyung Ryu**, an AI engineering student who likes software that
+**runs where it's planted**. My main fields are **data analysis**, **AI**,
+**Python**, and **parsing** — digging into raw data and tangled text until
+they turn into something structured and useful.
 
-- 🔮 On-device AI believer — inference belongs on your machine, not in the cloud
-- 🌱 Growing **[MINT](https://github.com/sorbetsharkroundhand/MINT)** — a privacy-first predictive writing app for macOS
-- 🌿 Brewing **[sage](https://github.com/sorbetsharkroundhand/sage)** — turning DataFrames into animated EDA videos
-- ✍️ Writing notes at **[velog](https://velog.io/@aqqw7565/posts)**
+My projects follow a small tradition: they're all **named after herbs**.
+Welcome to the garden. 🌿
+
+- 📊 **Data analysis & AI** — my main plot; EDA pipelines, on-device inference
+- 🐍 **Python** — my primary language for everything from parsing to ML
+- 🕸️ **Parsing** — turning messy text and HTML into clean structures
+- 🌱 Currently also working in **Swift**, growing [MINT](https://github.com/sorbetsharkroundhand/MINT)
+- ✍️ Writing at **[velog](https://velog.io/@aqqw7565/posts)** · **[sorbetsharkroundhand.github.io](https://sorbetsharkroundhand.github.io)**
   <a href="https://velog.io/@aqqw7565/posts"><img src="https://img.shields.io/badge/velog-%40aqqw7565-20C997?style=flat-square&logo=velog&logoColor=white" alt="velog" /></a>
+  <a href="https://sorbetsharkroundhand.github.io"><img src="https://img.shields.io/badge/blog-github.io-7ee787?style=flat-square&logo=github&logoColor=white" alt="github.io" /></a>
+- 🎓 **Inha University** — Dept. of Artificial Intelligence Engineering *(인하대학교 인공지능공학과)*
 
 ---
 
@@ -57,12 +64,14 @@ My personal plot of the internet — a site inspired by
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Manim-E6526F?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/BeautifulSoup-9B59B6?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Apple%20MLX-000000?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Manim-E6526F?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
 
