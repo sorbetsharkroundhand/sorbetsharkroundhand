@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="assets/herb-banner.gif" alt="hub × herb — a network growing like a plant" width="100%" />
-</div>
+
 
 # 🌱 Hey, I'm sorbetsharkroundhand
 
