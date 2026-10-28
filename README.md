@@ -3,11 +3,11 @@
 > *Everything grows better close to its root.*
 
 I'm **Jekyung Ryu**, an **Artificial Intelligence Engineering** student at **Inha University**.
-I build software at the intersection of **AI, data systems, and thoughtful interfaces** — from local-first writing tools to document pipelines and interactive explanations.
+I build software at the intersection of **AI, data systems, and thoughtful interfaces** — from local-first writing tools to animated data stories and interactive explanations.
 
 I care about the parts that are easy to overlook: keeping data trustworthy, making complex systems understandable, and building interfaces that stay out of the way.
 
-**Currently exploring:** on-device AI · document processing · developer tools · data visualization
+**Currently exploring:** on-device AI · creative tools · data visualization · interactive learning
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Interactive%20Notes-7ee787?style=flat-square&logo=github&logoColor=111111)](https://sorbetsharkroundhand.github.io)
 [![Velog](https://img.shields.io/badge/Writing-Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@aqqw7565/posts)
@@ -16,7 +16,7 @@ I care about the parts that are easy to overlook: keeping data trustworthy, maki
 
 ## 🌿 What I'm growing
 
-### ✍️ [MINT](https://github.com/sorbetsharkroundhand/Purlory) — a quieter place to write
+### ✍️ [Purlory](https://github.com/sorbetsharkroundhand/Purlory) — every story begins with a thread
 **In development · macOS · local-first**
 
 An editor-first writing app for long-form work. The writing experience should stand on its own, with optional on-device assistance that respects the author's words, story context, and flow.
@@ -26,13 +26,6 @@ An editor-first writing app for long-form work. The writing experience should st
 - A focus on manuscript ownership, evidence, recovery, and distraction-free UX
 
 `Swift` `AppKit / SwiftUI` `TextKit` `Apple MLX`
-
-### 📚 [DocKing](https://github.com/sorbetsharkroundhand/DocKing) — document workflows, made explicit
-**Event-driven document processing**
-
-A typed, versioned **DAG pipeline engine** for turning document-processing steps into inspectable, orchestrated workflows. It separates the application control plane from execution and keeps inputs, outputs, and processing boundaries explicit.
-
-`Python` `FastAPI` `Prefect` `PostgreSQL` `Docker`
 
 ### 🌱 [sage](https://github.com/sorbetsharkroundhand/sage) — brewing data into insights
 **Animated exploratory data analysis**
